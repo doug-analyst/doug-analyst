@@ -1,9 +1,10 @@
 # **Opa👋, sou o Douglas Alves.**
 
+#### - 🔭 Sou estudante de **Data Science**.
+#### - 💬 Atualmente trabalho com **análise de dados** voltada para prevenção de perdas.
+#### - 📫 Sempre aberto a novas experiências e conhecimentos.
+#
 
-- 🔭 Sou estudante de **Data Science**.
-- 💬 Atualmente trabalho com **analise de dados** voltada para prevenção de perdas.
-- 📫 Sempre aberto a novas experiências e conhecimentos.
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=doug-analyst&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="doug-analyst" /></p>
 
