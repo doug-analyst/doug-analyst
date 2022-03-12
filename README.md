@@ -8,7 +8,7 @@
 ### 📨 Entre em contato
 
 <p><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="doug-analyst" /></p>
-<a href="https://www.linkedin.com/in/douglas-alvessilva/" rel="noreferrer">
+<a href="https://www.linkedin.com/in/douglas-alvessilva/" >
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-analyst&theme=blue-green" alt="doug-analyst" /></p>
 
