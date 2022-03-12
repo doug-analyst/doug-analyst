@@ -7,8 +7,14 @@
 
 ### 📨 Entre em contato
 
-<p><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="doug-analyst" /></p>
-<a href="https://www.linkedin.com/in/douglas-alvessilva/" >
+<p align="left"> <a href="https://www.linkedin.com/in/douglas-alvessilva/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+
+
+
+
+
+
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doug-analyst&theme=blue-green" alt="doug-analyst" /></p>
 
