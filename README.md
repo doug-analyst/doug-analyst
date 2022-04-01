@@ -7,7 +7,7 @@
 
 ### 📨 Entre em contato
 
-<p align="left"> <a href="https://www.linkedin.com/in/douglas-alvessilva/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a> <a href="https://twitter.com/doug_zip" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="linkedin" /> </a>
+<p align="left"> <a href="https://www.linkedin.com/in/douglas-alvessilva/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a>
 
 
 
