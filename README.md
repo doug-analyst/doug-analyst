@@ -1,3 +1,8 @@
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/chrissgon/](https://www.linkedin.com/in/douglas-alvessilva/))]([https://www.linkedin.com/in/chrissgon/](https://www.linkedin.com/in/douglas-alvessilva/))
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Analyst+BI+at+NoVerde)](https://git.io/typing-svg)
 <div>
   
