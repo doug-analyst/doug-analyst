@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Analyst+BI+at+NoVerde)](https://git.io/typing-svg)
+<div>
+  
+  
 # **Opa👋, sou o Douglas Alves.**
 
 #### - 🔭 Sou estudante de **Data Science**.
