@@ -1,6 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-alvessilva/ )](https://www.linkedin.com/in/douglas-alvessilva/)
-
-
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/doug-analyst/)](https://github.com/doug-analyst)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.datasc@gmail.com)](mailto:douglas.datasc@gmail.com)
+![](https://komarev.com/ghpvc/?username=doug-analyst)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Analyst+BI+at+NoVerde)](https://git.io/typing-svg)
 <div>
