@@ -9,19 +9,12 @@
 <div>
   
   
-# **Opa👋, sou o Douglas Alves.**
+### Sobre
 
 #### - 🔭 Sou estudante de **Data Science**.
-#### - 💬 Atualmente trabalho com **análise de dados** voltada para prevenção de perdas.
+#### - 💬 Atualmente trabalho como **análista de business intelligence**.
 #### - 📫 Sempre aberto a novas experiências e conhecimentos.
 #
-
-### 📨 Entre em contato
-
-<p align="left"> <a href="https://www.linkedin.com/in/douglas-alvessilva/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /> </a>
-
-
-
 
 
 
