@@ -3,6 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.datasc@gmail.com)](mailto:douglas.datasc@gmail.com)
 ![](https://komarev.com/ghpvc/?username=doug-analyst)
 
+# Douglas Alves
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Analyst+BI+at+NoVerde)](https://git.io/typing-svg)
 <div>
   
